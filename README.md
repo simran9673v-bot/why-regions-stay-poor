@@ -19,7 +19,7 @@ using railway network data and GDP trends.
 ---
 
 ## Key Findings
-- Every country with 100% electricity access has GDP above $50,000
+- Every country with 100% electricity access has GDP almost above $50,000
 - Countries with poverty above 70% have electricity access below 36%
 - India's GDP grew 177% from 2000–2022 but inequality persists
 - Railway distribution in India follows British colonial patterns
@@ -31,7 +31,3 @@ using railway network data and GDP trends.
 - `analysis.ipynb` — Python data analysis notebook
 - `dashboard.pdf` — Power BI dashboard screenshots
 
----
-
-## Dashboard Preview
-[Add your dashboard screenshot here]
